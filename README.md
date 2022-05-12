@@ -10,7 +10,9 @@ This is a set of 30 flashcards, quizzing some tech knowledge, that are played wi
 
 ## Technologies Used
 
-Javascript, Mocha/Chai, Terminal
+ - Javascript 
+ - Mocha/Chai
+ - Terminal
 
 ## Install and Setup
 
