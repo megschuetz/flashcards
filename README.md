@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This is a set of flashcards that are played within the command line. Each question provides three answers to choose from using (1,2,3) as inputs. A message gives feedback for your choice being correct or incorrect. 
+This is a set of 30 flashcards, quizzing some tech knowledge, that are played within the command line. Each question provides three answers to choose from using (1,2,3) as inputs. A message gives feedback for your choice being correct or incorrect. 
 
-## How to View Your Code in Action
+## Preview In Action
 
 ![flash cards gif](https://media.giphy.com/media/vHGbnofoAUftUUTtIH/giphy.gif)
 
